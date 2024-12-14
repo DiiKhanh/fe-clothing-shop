@@ -1,0 +1,33 @@
+export const MATERIALS: ReadonlyArray<string> = [
+  'Vải tổ ong',
+  'French Terry',
+  'Cotton Compact',
+  'Vải Poly',
+  'COTTON DOUBLE FACE',
+  'Vải dù',
+  'Cotton 4 chiều',
+  'Cotton Compact 2C',
+  'Vải Thun Cotton',
+  'Jean Cotton',
+  'Vải Quần Tây',
+  'MINI ZURRY',
+  'Vải thun gân',
+  'Nylon Fabric',
+  'Kaki',
+];
+
+export const TEXTURES: ReadonlyArray<string> = [
+  'In dẻo',
+  'In trame',
+  'In nước',
+  'In chuyển nhiệt',
+  'In cây',
+  'In bột nổi',
+  'In trục ống đồng',
+  'Thêu',
+  'Thêu 2D',
+  'Thêu 3D',
+  'May đắp logo',
+  'Ép silicon',
+  'Phối dây viên phản quang',
+];
